@@ -10,7 +10,7 @@
 python rename.py [target-folder]
 ```
 
-You can use [./tmp\ tmp](./tmp\ tmp) folder to test [rename.py](./rename.py)
+You can use [./tmp tmp](./tmp tmp) folder to test [rename.py](./rename.py)
 
 ## Disclaimer
 This script is only tested on macOS, you should use at your own risk!
